@@ -16,7 +16,7 @@
     Read on to find out...
 
     
-   #### Created with only hate on GitHub 
+   #### Created with only hate on GitHub :)
     
 
 </body>

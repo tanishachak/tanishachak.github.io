@@ -14,7 +14,7 @@
 This is my brother:
 <br>
 
-<img src="IMG_0665.jpeg" alt="Manav">
+<img src="IMG_0665.jpeg" alt="Manav" class="center">
     
 
 </body>

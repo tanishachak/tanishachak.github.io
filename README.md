@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h2 class="title">ArT</h2>
+<h2 class="title">Art</h2>
 <p style="color:black;">My most recent art:</p>
 <br>
 

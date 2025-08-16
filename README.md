@@ -7,12 +7,11 @@
 </head>
 <body>
 
-<h1 class="title">The Best Website </h1>
-<h2 class="title" style="color:black;">Hello World</h2>
-<p style="color:black;">This my brother:</p>
+<h2 class="title">Art </h1>
+<p style="color:black;">My most recent art:</p>
 <br>
 
-<img src="IMG_0665.jpeg" alt="Manav" class="center">  
+<img src="buddha.jpeg" alt="Buddha" class="center">  
 
 </body>
 </html>

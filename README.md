@@ -8,8 +8,8 @@
 <body>
 
 <h1 class="title">The Best Website </h1>
-<h2 style="color:SlateBlue;">Hello World</h2>
-<p style="color:MediumSeaGreen;">This my brother:</p>
+<h2 class="title" style="color:black;">Hello World</h2>
+<p style="color:black;">This my brother:</p>
 <br>
 
 <img src="IMG_0665.jpeg" alt="Manav" class="center">  

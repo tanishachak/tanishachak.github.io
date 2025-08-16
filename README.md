@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1 style="backgorund-color:DodgerBlue;">The Best World </h1>
+<h1 class="title" style="backgorund-color:DodgerBlue;">The Best World </h1>
 <h2 style="color:SlateBlue;">Hello World</h2>
 <p style="color:MediumSeaGreen;">This my brother:</p>
 <br>

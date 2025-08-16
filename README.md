@@ -1,5 +1,5 @@
 
-# The Best Wesbsite
+<h1 style="background-color:DodgerBlue;">The Best World </h1>
 
 <html lang="en">
 <head>
@@ -9,9 +9,8 @@
 </head>
 <body>
    
-
-<h1 style= "background-color:Violet;">Hello World.</h1>
-This is my brother:
+<h2 style="color:SlateBlue;">Hello World</h2>
+<p style="color:MediumSeaGreen;">This my brother:</p>
 <br>
 
 <img src="IMG_0665.jpeg" alt="Manav" class="center">  

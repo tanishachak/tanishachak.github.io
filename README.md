@@ -11,11 +11,8 @@
    
 
  Hello World.
-Why is github so confusing? 
-    Read on to find out...
-
-    
-    Created with only hate on GitHub :)
+This is my brother:
+<img src="IMG_0665.jpeg" alt="Manav">
     
 
 </body>
